@@ -1,0 +1,28 @@
+_repo: A-Traitor-s-Wooing_33453
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33453-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hill, Headon
+    alias: Grainger, Francis Edward
+    birthdate: 1857
+    deathdate: 1927
+    gutenberg_agent_id: '36424'
+    url: http://www.gutenberg.org/2009/agents/36424
+    wikipedia: http://de.wikipedia.org/wiki/Headon_Hill
+description: ''
+gutenberg_issued: '2010-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33453'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English fiction'
+title: A Traitor's Wooing
+url: http://www.gutenberg.org/ebooks/33453
